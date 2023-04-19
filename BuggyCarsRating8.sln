@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuggyCarsRating8", "BuggyCarsRating8\BuggyCarsRating8.csproj", "{41879EEA-A6DF-431B-8080-25971E1E57D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{94E9405D-1C6A-4615-9C00-1375933DFF87}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41879EEA-A6DF-431B-8080-25971E1E57D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41879EEA-A6DF-431B-8080-25971E1E57D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41879EEA-A6DF-431B-8080-25971E1E57D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41879EEA-A6DF-431B-8080-25971E1E57D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC3E70B1-DB9F-4AEE-8589-8F671DE3740C}
+	EndGlobalSection
+EndGlobal
